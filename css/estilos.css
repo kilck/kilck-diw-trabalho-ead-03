@@ -76,7 +76,7 @@ footer {
   font-weight: bold;
   text-transform: uppercase;
   width: 230px;
-  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .busca h2,
@@ -112,12 +112,12 @@ footer {
 .busca,
 .menu-departamentos {
   
-  float: left;
+  float: right;
 }
 
 .menu-departamentos {
   
-  clear: left;
+  clear: right;
   margin-top: 10px;
   padding-bottom: 10px;
 }
